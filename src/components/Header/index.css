@@ -1,0 +1,103 @@
+.navbar {
+  background-color: #fff;
+  color: black;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  border: rgb(219, 217, 217) 1px solid;
+  border-radius: 5px;
+  height: 40px;
+  width: 75%;
+  margin-left: 200px;
+  margin-top: 20px;
+  position: fixed;
+}
+
+.navbar-toggler {
+  color: black;
+  background-color: #fff;
+  font-size: 18px;
+  border: #fff 0px;
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+}
+
+p {
+  padding: 7px;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 5px;
+}
+.avatar {
+  margin-top: 5px;
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  border: 1px rgb(168, 165, 165) solid;
+}
+
+.icon-con {
+  display: flex;
+  flex-direction: row;
+  font-size: 18px;
+  margin-left: auto;
+  font-size: 22px;
+  padding-right: 10px;
+  margin-top: 0px;
+}
+
+.icon-K {
+  font-size: 15px;
+  font-weight: 0;
+  color: rgb(107, 110, 110);
+  padding-left: 10px;
+  margin-top: 5px;
+}
+.bg-container {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  width: 100%;
+  overflow-y: scroll;
+}
+.side-bar-con {
+  display: flex;
+  flex-direction: column;
+  overflow: scroll;
+
+  width: 20%;
+  padding: 10px;
+  border: 1px #000;
+  position: absolute;
+}
+
+.btn {
+  background-color: #fff;
+  border: none;
+  font-weight: 100;
+  font-size: 11px;
+  padding: 5px;
+  color: rgb(107, 103, 103);
+}
+span {
+  font-size: 10px;
+}
+
+h4 {
+  font-size: 10px;
+  font-weight: 0;
+  color: grey;
+}
+
+li {
+  font-size: 10px;
+  font-weight: 0;
+  color: grey;
+  cursor: pointer;
+}
+
+.btn-img {
+  border: none;
+  background-color: transparent;
+}

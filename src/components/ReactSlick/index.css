@@ -1,0 +1,47 @@
+.slider-container {
+  background-color: #3c77c4;
+  border-radius: 12px;
+  height: 150px;
+  width: 340px;
+  margin: 5px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+h4 {
+  font-size: 12px;
+  margin: 0px;
+  color: #ffffff;
+  text-align: center;
+}
+
+span {
+  margin: 2px;
+}
+h5 {
+  font-size: 8px;
+  margin: 0px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.heading {
+  font-size: 10px;
+  margin: 0px;
+  color: #ffffff;
+  text-align: center;
+}
+p {
+  font-size: 8px;
+  margin: 0px;
+  color: #ffffff;
+}
+.earning {
+  display: flex;
+  flex-direction: row;
+}
